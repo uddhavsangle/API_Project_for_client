@@ -21,7 +21,7 @@ from Student_Info import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('get/', views.api_view.as_view()),
-    path('change/<int:pk>', views.api_change.as_view()),
+    path('change/<int:id>', views.api_change.as_view()),
     # path('api/your_endpoint/',views.api_view1.as_view(),name='api_view1'),
 
 ]
