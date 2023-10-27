@@ -100,8 +100,8 @@ class api_view(APIView):
                 print(f"Text file '{text_file}' has been converted to PDF: '{result_path}'")
 
                 session = boto3.Session(
-                    aws_access_key_id='AKIA54ORVSV3BK32TUBE',
-                    aws_secret_access_key='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',
+                    aws_access_key_id='',
+                    aws_secret_access_key='',
                     region_name='ap-south-1'
                 )
 
