@@ -1,0 +1,36 @@
+
+RESUME
+
+Candidate Name : rajesh
+Contact No : 1234567890
+
+
+Objective:
+Experienced IT professional with .. years in Python. Seeking a dynamic role in Python developer to contribute expertise in Python and drive success.
+
+
+Summary:
+3 years in Python.
+Proficient in app developement.
+Strong problem-solving and analytical skills.
+Expertise in developement.
+
+
+Work Experience:
+Python Developer at Google - location Python.
+Managed Application Development life cycle.
+Implemented MVT architecture.
+
+
+
+Education:
+Graduate from xyz univercity in 2020.
+
+
+Skills:
+Programming: Python.
+Tools: Aws,Azure,Pycharm ,Docker, Git ,Jupyter .
+
+
+thanks and regards
+Name : rajesh

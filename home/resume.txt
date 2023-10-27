@@ -1,0 +1,36 @@
+
+RESUME
+
+Candidate Name : {}
+Contact No : {}
+
+
+Objective:
+Experienced IT professional with .. years in {}. Seeking a dynamic role in {} developer to contribute expertise in {} and drive success.
+
+
+Summary:
+{} years in {}.
+Proficient in app developement.
+Strong problem-solving and analytical skills.
+Expertise in developement.
+
+
+Work Experience:
+{} Developer at Google - location {}.
+Managed Application Development life cycle.
+Implemented MVT architecture.
+
+
+
+Education:
+Graduate from xyz univercity in 2020.
+
+
+Skills:
+Programming: {}.
+Tools: Aws,Azure,Pycharm ,Docker, Git ,Jupyter .
+
+
+thanks and regards
+Name : {}
